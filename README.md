@@ -10,9 +10,9 @@
 ---
 
 ## 🧩 Overview  
-Calcul8 was built out of a simple idea — that a calculator can be more than just buttons and numbers.  
+Calcul8 was built out of a simple idea, that a calculator can be more than just buttons and numbers.  
 It’s designed to help you do everyday math, conversions, and special calculations all in one clean, easy-to-use app.  
-As you use the app, your progress is tracked with ranks, badges, and a leaderboard that celebrates your consistency and curiosity.  
+As you use the app, your progress is tracked with ranks, unique badges, and a leaderboard that celebrates your consistency and curiosity.  
 
 ---
 
@@ -49,8 +49,8 @@ As you use the app, your progress is tracked with ranks, badges, and a leaderboa
 | **Framework** | Flutter 3.35.6 |
 | **Backend** | Supabase |
 | **Exchange Rate Data** | [Fawaz Ahmed’s Exchange API](https://github.com/fawazahmed0/exchange-api) |
-| **Architecture** | Offline-first with background sync |
-| **Storage** | SharedPreferences for local persistence |
+
+See the full [CHANGELOG.md](./CHANGELOG.md) for release notes and version history.
 
 ---
 
@@ -63,7 +63,6 @@ As you use the app, your progress is tracked with ranks, badges, and a leaderboa
 ## 🔐 License  
 This project is **private and closed-source**.  
 All rights reserved © 2025 **Hesi Haton**.  
-Redistribution, modification, or reverse-engineering of the source code is **strictly prohibited**.  
 
 ---
 
