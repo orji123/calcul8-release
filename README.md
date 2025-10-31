@@ -73,4 +73,4 @@ Redistribution, modification, or reverse-engineering of the source code is **str
 
 ---
 
-> *Calcul8 — because your daily math deserves more than just numbers.*
+> *Calcul8 — Think. Compute. Evolve.*
