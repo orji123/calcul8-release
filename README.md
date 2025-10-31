@@ -4,7 +4,6 @@
 ![Flutter](https://img.shields.io/badge/Flutter-3.35.6-blue?logo=flutter)
 ![Supabase](https://img.shields.io/badge/Backend-Supabase-green?logo=supabase)
 ![Platform](https://img.shields.io/badge/Platform-Android-lightgrey?logo=android)
-![License](https://img.shields.io/badge/License-Private-red)
 ![Version](https://img.shields.io/badge/Version-1.0.0-blueviolet)
 
 ---
@@ -61,8 +60,9 @@ See the full [CHANGELOG.md](./CHANGELOG.md) for release notes and version histor
 ---
 
 ## 🔐 License  
-This project is **private and closed-source**.  
-All rights reserved © 2025 **Hesi Haton**.  
+The source code for this project is not publicly distributed.  
+Usage and modification are restricted to the development team.  
+All rights reserved © 2025 Hesi Haton. 
 
 ---
 
