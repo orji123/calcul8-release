@@ -23,7 +23,7 @@ As you use the app, your progress is tracked with ranks, unique badges, and a le
 - **Cooking Recipe Modifier** – Adjust ingredient quantities with ease.  
 - **Text & Code Converter** – Convert between binary, hex, ASCII, Base64, and others.  
 - **Offline-First Experience** – Fully functional offline, syncing ranks and data when online.  
-- **Custom Themes** – Choose Minimalist, Neon, or Retro themes to match your style.  
+- **Custom Themes** – Choose Minimalist, Neon, Retro, or Pastel themes to match your style.  
 - **Ranking & Leaderboard** – Earn badges, climb ranks, and track your global progress.  
 - **History Log** – Access and search past calculations instantly.  
 
@@ -36,7 +36,7 @@ As you use the app, your progress is tracked with ranks, unique badges, and a le
 
 ## ⚙️ Installation  
 1. Go to the [**Releases**](../../releases) section.  
-2. Download the latest APK file (`calcul8_v1.0.0-release.apk`).  
+2. Download the latest APK file (`calcul8_v1.1.0-release.apk`).  
 3. Install it on your Android device.  
 4. Open **Calcul8** and start exploring.  
 
