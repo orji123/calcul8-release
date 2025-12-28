@@ -1,6 +1,6 @@
 # 🧾 Changelog
 
-## Version 1.1.0 — Calculator Improvements
+## Version 1.1.0 - Calculator Improvements
 
 **Update focusing on calculator reliability and ranking system enhancements**
 
@@ -56,7 +56,7 @@
 
 ---
 
-## Version 1.0.0 — Initial Release
+## Version 1.0.0 - Initial Release
 
 **First public release of Calcul8**
 
